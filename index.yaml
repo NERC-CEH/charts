@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  metadata-catalogue:
+  - apiVersion: v2
+    created: "2021-02-05T16:31:11.224066688Z"
+    description: Metadata Catalogue
+    digest: 691a8c13b49dea8e7aba3d9a5b031cd3c6e789c8fcaed6cb52d1c12aa2b399b4
+    maintainers:
+    - email: rjsc@ceh.ac.uk
+      name: Rod Scott
+    name: metadata-catalogue
+    sources:
+    - https://gitlab.ceh.ac.uk/infrastructure/helm-charts/catalogue
+    urls:
+    - https://nerc-ceh.github.io/charts/metadata-catalogue-1.10.0.tgz
+    version: 1.10.0
+  - apiVersion: v2
+    created: "2021-02-05T16:31:11.22500188Z"
+    description: Metadata Catalogue
+    digest: 2c277555898a9b2f5c62406befc965e7e5c616c5f5f2f2e99b10d9d57821beb2
+    maintainers:
+    - email: rjsc@ceh.ac.uk
+      name: Rod Scott
+    name: metadata-catalogue
+    sources:
+    - https://gitlab.ceh.ac.uk/infrastructure/helm-charts/catalogue
+    urls:
+    - https://nerc-ceh.github.io/charts/metadata-catalogue-1.9.0.tgz
+    version: 1.9.0
+generated: "2021-02-05T16:31:11.22296207Z"
