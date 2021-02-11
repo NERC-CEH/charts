@@ -1,0 +1,6 @@
+*
+!.gitignore
+!index.yaml
+!*.tgz
+!LICENCE
+!README.md
