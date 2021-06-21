@@ -15,6 +15,7 @@ dependencies:
 ```
 Then install the dependency using `helm`
 ```bash
+helm dependency update
 helm dependency build
 ```
 
